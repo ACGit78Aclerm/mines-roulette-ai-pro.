@@ -1,0 +1,9 @@
+{
+  "name": "MINES & ROULETTE AI PRO",
+  "short_name": "Mines Roulette",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080d12",
+  "theme_color": "#080d12",
+  "description": "Simulador educativo de ruleta y Mines"
+}
